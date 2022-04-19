@@ -10,9 +10,8 @@
 >  
 > Ordinal -> Order and Sequence
 
-![Ordinal and Cardinals](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Cardinal%20and%20ordinal_numbers.jpg)
+![Ordinal and Cardinals](https://static.platzi.com/media/user_upload/ordinal-numbers-7b386a3f-859f-4821-a9f9-0e59aa204a1c.jpg)
 
-![Other Cardinal and Orginals](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/e3bf6db6b41e4df4e1d6db832a6ec150YmrEOcKF3dADJuZ1-6.png)
 
 > **Note:** Twenty in Ordinal is Twentieth
 
