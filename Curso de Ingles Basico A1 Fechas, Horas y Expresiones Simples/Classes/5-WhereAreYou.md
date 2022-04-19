@@ -28,7 +28,7 @@ Above or up on in position(Por encima de) / OVER = ABOVEThe light is over me
 
 # Other Prepositions (Important)
 
-![Other prepositions](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/IN%20ON%20AT.jpg)
+![Other prepositions](https://static.platzi.com/media/user_upload/descarga-1b798c5d-bad2-42ec-856d-5fc5110bcc71.jpg)
 
 ## In
 La preposición IN se usa en los siguientes casos:
@@ -102,6 +102,8 @@ La preposición AT se utiliza en los siguientes casos:
  
 
   
+## Other Resources:
 
+![Resource](https://static.platzi.com/media/user_upload/10-6664db36-b99f-441c-99f8-ecb9e04d6c87.jpg)
 
 

@@ -30,8 +30,6 @@
 
 ## Question: When is your birthday?
 
-![When is your birthday](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/month%20and%20day.jpg)
-
 >**Answer** My birthday is in February or My birthday is on February 12th
 
 * **Question:** When is Halloween day? 
@@ -44,5 +42,5 @@
     >**Answer** The Saint Valentine's day in Venezuela is on February 14th 
 
 ## Format of Date 
-![Format](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Formato%20de%20fecha.jpg)
+![Format](https://static.platzi.com/media/user_upload/screen280-9e7f8d0d-e54d-48dd-af74-eb34d353fd15.jpg)
   

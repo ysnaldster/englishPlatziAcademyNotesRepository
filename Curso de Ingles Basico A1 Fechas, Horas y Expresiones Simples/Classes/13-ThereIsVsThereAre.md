@@ -27,9 +27,6 @@ La expresión *there is* se usa en los siguientes casos:
 
         *There are five books on the desk – Hay cinco libros en el escritorio*
 
-**Con el uso de la siguiente imagen realiza varias oraciones usando las expresiones There is y There are.**
-
-![Resource](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/e3bf6db6b41e4df4e1d6db832a6ec150YmrEOcKF3dADJuZ1-59.png)
 
 ## There isn’t vs. There aren’t
 
@@ -67,14 +64,14 @@ Por ejemplo:
 
 ## Ejercicio usando *there is* y *there are*
 
-**Partiendo de la siguiente imagen, responde las preguntas que se formulan.**
-
-![ResourceTwo](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/e3bf6db6b41e4df4e1d6db832a6ec150YmrEOcKF3dADJuZ1-61.png)
-
-Respuestas:
+### Other Exercise:
 
 * **Are there kids in the park?** Yes, there is one girl in the park.
 
 * **Is there an adult with the kid?** No, there isn’t an adult with the kid.
 
 * **Are there animals in the park?** No, there aren’t animals in the park.
+
+## Resources: 
+
+![Resource](https://3.bp.blogspot.com/-Amd2KMKmlsI/W_AJhxykPqI/AAAAAAAAAWU/_K4S4eiZprAyRqL2NveLqcv3QJZWTm0TgCLcBGAs/s1600/there%2Bis%2Bthere%2Bare.jpg)

@@ -84,9 +84,8 @@ Respuesta.
 2. Lucas’ car is new.
 3. Steve’s and Anna’s daughters are smart.
 
-**Mira el siguiente arbol familiar. Observa los ejemplos.**
 
-![Resource](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/Family%20tree.jpg)
+![Resource](https://www.woodwardenglish.com/wp-content/uploads/2019/05/apostrophe-s-possessive-noun.jpg)
 
 **Ejemplos**
 

@@ -34,7 +34,9 @@ Los principales usos de estas expresiones son:
 
 Ahora bien, es importante señalar que el uso de estas expresiones poseen diferentes tratamientos en las oraciones afirmativas, negativas e interrogativas. Esto se puede visualizar en la siguiente imagen:
 
-![Images resource](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/e3bf6db6b41e4df4e1d6db832a6ec150YmrEOcKF3dADJuZ1-39.png)
+![Images resource](https://static.platzi.com/media/user_upload/10-22%20clase%20Have%20vs.%20Have%20Got-8e6def78-4395-4003-b8b5-d319fcc41f44.jpg)
+
+![Another resource](https://static.platzi.com/media/user_upload/10-22%20%282%29%20clase%20have%20got-baaf6584-ba4a-463c-bee8-6eb75dd8bbf3.jpg)
 
 ## Affirmative sentences using have and have got
 

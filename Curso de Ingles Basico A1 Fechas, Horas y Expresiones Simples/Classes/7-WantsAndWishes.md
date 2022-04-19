@@ -42,4 +42,4 @@ Ambas expresiones son correctas. Sin embargo, se debe tener cuidado en el uso de
 
 ### Resources: 
 
-![Resources](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/wish%20and%20would%20like.jpg)
+![Resources](https://static.platzi.com/media/user_upload/9-22%20clase%20Wants%20and%20Wishes-cffa82f6-981c-4932-9cd3-e7a2b3ad46eb.jpg)

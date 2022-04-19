@@ -18,8 +18,6 @@ El sujeto de una oración es la persona, animal o cosa que **realiza la acción
 * We
 * They
 
-![Resource](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/e3bf6db6b41e4df4e1d6db832a6ec150YmrEOcKF3dADJuZ1-65.png)
-
 ## Pronombres en función del objeto
 
 En este caso, el sujeto de una oración es la persona, animal o cosa que **recibe la acción del verbo**. Generalmente, este pronombre se coloca a continuación del verbo al que complementa o a continuación de preposiciones como “for”, “to”, “with” y “at”.
@@ -33,8 +31,6 @@ En este caso, el sujeto de una oración es la persona, animal o cosa que **reci
 * It
 * Us
 * Them
-
-![ResourceTwo](https://cdn.document360.io/da52b302-22aa-4a71-9908-ba18e68ffee7/Images/Documentation/e3bf6db6b41e4df4e1d6db832a6ec150YmrEOcKF3dADJuZ1-66.png)
 
 ## Ejercicios con subject pronouns y object pronouns
 
