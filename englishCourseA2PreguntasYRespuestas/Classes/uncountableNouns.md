@@ -12,16 +12,14 @@ Banana, Money, Fruit
 
 It doesn't exist. 
 
-**Any se utiliza para preguntas y respuestas negativas.** 
+**Any se utiliza para preguntas y respuestas negativas.**
 
-**Some se utiliza para respuestas afirmativas** 
+**Some se utiliza para respuestas afirmativas**
 
 How many people are in the zoom call?
 
+Do you have any phone?
+I have some phone.
 
-Do you have any phone? 
-I have some phone. 
-
-Remember: 
+Remember:
 ![Any&Some](https://i.ibb.co/DrZJswN/SOME-ANY.png)
-
