@@ -26,6 +26,13 @@ Miranda needs to choose one: a new swimsuit or a hat.
 Ejercicio de conectores
 Revisa estos ejemplos y escribe una oración para cada conector. ¡Comparte tu trabajo en la sección de aportes!
 
+Conector BUT
+“But” es empleado para indicar ideas opuestas. Por ejemplo:
+
+I like to drink coffe, but not tea.
+My sister watches series, but I watch movies.
+Miranda bought a new swimsuit and sunglasses, but she didn’t buy a hat.
+
 I love cats and dogs
 He wants to go to the park, but I want to go to the museum
 Should I stay or should I go?
